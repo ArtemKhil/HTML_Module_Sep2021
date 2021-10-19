@@ -1,0 +1,44 @@
+header{
+    width: 1350px;
+    height: 200px;
+    background-color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav{
+    width: 1350px;
+    height: 100px;
+    background-color: gold;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.main{
+    width: 1000px;
+    height: 400px;
+    background-color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.aside{
+    width: 350px;
+    height: 400px;
+    background-color: darkorange;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wrap{
+    display: flex;
+}
+
+footer{
+    width: 1350px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
