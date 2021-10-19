@@ -1,0 +1,22 @@
+.widgets{
+    width: 1350px;
+    height: 300px;
+    background-color: blue;
+}
+
+.big{
+    width:400px;
+    height:400px;
+    background-color: gold;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact{
+    width: 1350px;
+    height: 500px;
+    background-color: blueviolet;
+}
