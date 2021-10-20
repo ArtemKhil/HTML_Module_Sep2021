@@ -1,13 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .widgets{
     width: 1350px;
     height: 300px;
     background-color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .big{
     width:400px;
     height:400px;
     background-color: gold;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigger{
+    width:400px;
+    height:400px;
+    background-color: gold;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.huge{
+    width:400px;
+    height:400px;
+    background-color: gold;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .wrap{
@@ -19,4 +56,9 @@
     width: 1350px;
     height: 500px;
     background-color: blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
