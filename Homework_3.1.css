@@ -1,19 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
 .a{
     width: 1350px;
     height:200px;
     background-color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .b{
     width: 1000px;
     height:500px;
     background-color: darkorange;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .c{
     width: 360px;
     height:500px;
     background-color: gold;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .wrap{
